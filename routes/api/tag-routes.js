@@ -2,7 +2,6 @@ const router = require('express').Router();
 const { Tag, Product, ProductTag } = require('../../models');
 
 // The `/api/tags` endpoint
-router.get('/', async (req, res) => {
   router.get('/', async (req, res) => {
     try {
         // find all tags
@@ -22,7 +21,6 @@ router.get('/', async (req, res) => {
       res.status(500).json(err);
     }
   });  
-});
   router.get('/:id', async (req, res) => {
     try {
         // find a single tag by its `id`
