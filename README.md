@@ -70,6 +70,8 @@ The E-Commerce-Back-End application is designed to provide a seamless experience
 
 6. **Video Tutorial:**
    - For a visual guide on using the E-Commerce-Back-End application, refer to the provided video tutorial.
+   [Walkthrough Video](https://watch.screencastify.com/v/PLtCFeX9EqMDUXhA6zHp)
+
 
 ## Contributing
 - W3-Schools
